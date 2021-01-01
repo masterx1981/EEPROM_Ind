@@ -8,7 +8,7 @@
 #include "Arduino.h"  // Arduino data type definitions
 #include "I2C_eeprom.h"
 
-#define EEPAGE 1
+#define EEPAGE 4
 #define EEPAGESIZE 256
    
 class EEPROM_Ind {
